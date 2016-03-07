@@ -1,6 +1,7 @@
 # Matte
 
 Computes the foreground and alpha channels of images using triangulation matting and creates composites.
+The purpose of this was to learn how to create the most efficient algorithm, which was `alpha_composite5`.
 
 Alpha:
 
